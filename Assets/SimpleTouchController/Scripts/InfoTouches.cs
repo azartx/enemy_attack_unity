@@ -1,26 +1,21 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 
-public class InfoTouches : MonoBehaviour {
+public class InfoTouches : MonoBehaviour { // todo make debug only
 
-	// PUBLIC
-	public Text leftText;
-	public Text rightText;
-	public SimpleTouchController leftController;
+	private Text text;
+	
 	public SimpleTouchController rightController;
 
-	// PRIVATE
-
+	void Start()
+	{
+		text = gameObject.GetComponent<Text>();
+	}
 
 	void Update()
 	{
-		leftText.text = "Left Touch:\n" +
-			"x: " + leftController.GetTouchPosition.x + "\n" +
-			"y: " + leftController.GetTouchPosition.y;
-
-		rightText.text = "Right Touch:\n" +
-			"x: " + rightController.GetTouchPosition.x + "\n" +
-			"y: " + rightController.GetTouchPosition.y;
+		text.text = "Right Touch:\n" +
+		            "x: " + rightController.GetTouchPosition.x + "\n" +
+		            "y: " + rightController.GetTouchPosition.y;
 	}
 }

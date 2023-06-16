@@ -46,40 +46,176 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SimpleTouchController\Scripts\InfoTouches.cs" />
-     <Compile Include="Assets\SimpleTouchController\Scripts\PlayerMoveController.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\SimpleTouchController\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\SimpleTouchController\Scripts\SimpleTouchController.cs" />
      <Folder Include="Assets" />
+     <None Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0\package.json" />
      <Folder Include="Assets\Scenes" />
+     <None Include="Library\PackageCache\com.unity.modules.jsonserialize@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.test-framework@1.1.33" />
+     <None Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.mobile.notifications@2.2.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.cloth@1.0.0\package.json" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\Demo_FREE_LowPolyCharacter" />
+     <Folder Include="Library\PackageCache\com.unity.modules.imgui@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.mobile.android-logcat@1.3.2" />
+     <None Include="Library\PackageCache\com.unity.modules.ai@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.animation@1.0.0" />
      <Folder Include="Assets\Blink\Art" />
+     <None Include="Library\PackageCache\com.unity.ugui@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.mobile.notifications@2.2.0\Tests" />
+     <Folder Include="Library\PackageCache\com.unity.modules.xr@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.ext.nunit@1.0.6\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.ide.rider@3.0.21\Rider" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources" />
+     <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Graphics" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\Demo_FREE_LowPolyCharacter\DEMO_FREE_LowPolyHumans" />
+     <None Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly\Meshes_Humans\ArmorMeshes_Humans" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly\Textures_Humans" />
      <Folder Include="Assets\SimpleTouchController\Materials" />
      <Folder Include="Assets\TutorialInfo" />
+     <None Include="Library\PackageCache\com.unity.timeline@1.7.4\package.json" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly\Prefabs_Humans" />
+     <Folder Include="Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom" />
      <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Gathering" />
+     <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0" />
+     <Folder Include="Library\PackageCache\com.unity.ai.navigation@1.1.3\Gizmos" />
+     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18\ValidationConfig.json" />
+     <Folder Include="Library\PackageCache\com.unity.ext.nunit@1.0.6\net35" />
      <Folder Include="Assets\Blink\Art\Animations" />
+     <None Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0\package.json" />
      <Folder Include="Assets\SimpleTouchController\Prefabs" />
      <Folder Include="Assets\SimpleTouchController\Scenes" />
+     <Folder Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\package.json" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly\Meshes_Humans" />
      <Folder Include="Assets\SimpleTouchController\Sprites" />
+     <None Include="Library\PackageCache\com.unity.timeline@1.7.4\ValidationExceptions.json" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.timeline@1.7.4" />
+     <Folder Include="Library\PackageCache\com.unity.ai.navigation@1.1.3\Tests" />
+     <Folder Include="Library\PackageCache\com.unity.modules.cloth@1.0.0" />
      <None Include="Assets\SimpleTouchController\README.txt" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\PackageConversionData.json" />
+     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.ext.nunit@1.0.6" />
+     <Folder Include="Library\PackageCache\com.unity.profiling.core@1.0.2" />
      <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Combat" />
+     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0\package.json" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly\Materials_Humans" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\ValidationExceptions.json" />
+     <Folder Include="Library\PackageCache\com.unity.mobile.notifications@2.2.0\Runtime" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.ide.rider@3.0.21\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.video@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.test-framework@1.1.33\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.physics@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts" />
+     <Folder Include="Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime" />
      <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Movement" />
+     <Folder Include="Library\PackageCache\com.unity.modules.vr@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Tests" />
+     <None Include="Library\PackageCache\com.unity.mobile.android-logcat@1.3.2\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.ai.navigation@1.1.3" />
+     <None Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0\package.json" />
      <Folder Include="Assets\Adaptive Performance" />
+     <Folder Include="Library\PackageCache\com.unity.modules.wind@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1" />
+     <None Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.feature.mobile@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.vr@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.uielements@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\ValidationExceptions.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18\ValidationExceptions.json" />
+     <None Include="Library\PackageCache\com.unity.modules.wind@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.mobile.android-logcat@1.3.2\ValidationConfig.json" />
+     <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0\Tests" />
+     <None Include="Library\PackageCache\com.unity.modules.umbra@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.mobile.notifications@2.2.0" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Textures" />
      <Folder Include="Assets\SimpleTouchController" />
+     <Folder Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.ui@1.0.0" />
      <Folder Include="Assets\SimpleTouchController\Scripts" />
+     <None Include="Library\PackageCache\com.unity.subsystemregistration@1.1.1\package.json" />
      <Folder Include="Assets\Blink\Art\Characters" />
+     <Folder Include="Library\PackageCache\com.unity.feature.mobile@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Tests\TestPackage" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Gizmos" />
+     <None Include="Library\PackageCache\com.unity.modules.audio@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.mobile.notifications@2.2.0\Tests\Runtime" />
+     <None Include="Library\PackageCache\com.unity.modules.physics@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4" />
      <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack" />
      <Folder Include="Assets\Adaptive Performance\Settings" />
      <Folder Include="Assets\TutorialInfo\Scripts" />
+     <None Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0\package.json" />
      <Folder Include="Assets\TutorialInfo\Icons" />
+     <Folder Include="Library\PackageCache\com.unity.ai.navigation@1.1.3\EditorResources\Overlay" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6" />
+     <Folder Include="Library\PackageCache\com.unity.subsystemregistration@1.1.1\Tests" />
+     <Folder Include="Library\PackageCache\com.unity.ide.rider@3.0.21" />
+     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.subsystemregistration@1.1.1" />
      <Folder Include="Assets\Blink" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\ValidationConfig.json" />
+     <None Include="Library\PackageCache\com.unity.ai.navigation@1.1.3\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.ide.vscode@1.2.5" />
+     <Folder Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.xr@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Tests" />
+     <None Include="Library\PackageCache\com.unity.profiling.core@1.0.2\package.json" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_Properties.cginc" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
+     <Folder Include="Library\PackageCache\com.unity.modules.umbra@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.ai.navigation@1.1.3\EditorResources" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib" />
+     <None Include="Library\PackageCache\com.unity.modules.director@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.ide.vscode@1.2.5\ValidationExceptions.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.jsonserialize@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.visualscripting@1.8.0\ValidationConfig.json" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders" />
+     <Folder Include="Library\PackageCache\com.unity.modules.director@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.audio@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.terrain@1.0.0\package.json" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly\FREE_HumanLowPoly" />
+     <Folder Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.18" />
+     <None Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.video@1.0.0" />
+     <Folder Include="Library\PackageCache\com.unity.modules.ai@1.0.0" />
      <Folder Include="Assets\Blink\Art\Characters\LowPoly" />
+     <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\PackageConversionData_Assets.json" />
+     <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Package Resources" />
+     <Folder Include="Library\PackageCache\com.unity.modules.terrain@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.modules.uielements@1.0.0\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\package.json" />
+     <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0" />
+     <None Include="Library\PackageCache\com.unity.modules.ui@1.0.0\package.json" />
+     <None Include="Library\PackageCache\com.unity.ide.vscode@1.2.5\package.json" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -707,110 +843,144 @@
      <Reference Include="System.Xml.Serialization">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Notifications">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Notifications.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AI.Navigation">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance.Simulator.Extension">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.Extension.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Notifications.iOS">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Notifications.iOS.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance.Profiler.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.Profiler.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance.Simulator.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance.UI.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.UI.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Subsystem.Registration">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AI.Navigation.Updater">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mobile.AndroidLogcat.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Mobile.AndroidLogcat.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AdaptivePerformance.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AdaptivePerformance.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AI.Navigation.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Notifications.Android">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Notifications.Android.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Profiling.Core">
-     <HintPath>C:\Users\Semen\Unity projects\Enemy attack\Library\ScriptAssemblies\Unity.Profiling.Core.dll</HintPath>
-     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.Notifications.csproj">
+      <Project>{22aff969-b489-3599-c861-d54d0952668f}</Project>
+      <Name>Unity.Notifications</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.csproj">
+      <Project>{d3c8fe7e-13f6-97d9-1c32-ecd68edaa4fd}</Project>
+      <Name>Unity.AI.Navigation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{95eed42a-49fd-fc88-f1cf-c3cc46ca5c20}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{c4e06bf5-7b54-3311-30c7-f43488b4abd7}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{5ca9d5d8-194b-4d8a-4570-a9c3e2454151}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.csproj">
+      <Project>{06207dc7-4d29-1124-3685-6e596b76808b}</Project>
+      <Name>Unity.AdaptivePerformance</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
+      <Project>{5efb171a-16ee-fe79-b1a0-2991c8e7e427}</Project>
+      <Name>Unity.VisualStudio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Extension.csproj">
+      <Project>{69080f65-38ef-fce2-a772-c36be9e48946}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Notifications.iOS.csproj">
+      <Project>{0eceee77-8da5-1037-dc52-3dc85a002b0d}</Project>
+      <Name>Unity.Notifications.iOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{23f12ecd-8f88-eab1-3310-27cb91967f13}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{c35ec191-36c0-aa90-4d9e-f2494d73ab6f}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Profiler.Editor.csproj">
+      <Project>{0dab2e32-9248-0641-9083-8817da6d6922}</Project>
+      <Name>Unity.AdaptivePerformance.Profiler.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
+      <Project>{6ce45e41-0b02-a644-c642-6b91139fc303}</Project>
+      <Name>Unity.VisualScripting.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{c62fd0e1-b95c-c350-8897-c76edbd39704}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Editor.csproj">
+      <Project>{72b0bc63-27bf-73f1-80a8-8379982bb308}</Project>
+      <Name>Unity.AdaptivePerformance.Simulator.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{9cb55f37-9ffa-b314-8138-1fcc241a2164}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.UI.Editor.csproj">
+      <Project>{bb143378-8c86-8229-ceea-364c077e2800}</Project>
+      <Name>Unity.AdaptivePerformance.UI.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
+      <Project>{444c4dc1-c711-2f26-24a5-794c21bd79bf}</Project>
+      <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
+      <Project>{f6730347-0778-f967-9ad5-146f9cc5b248}</Project>
+      <Name>Unity.VisualScripting.Flow.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{b4f05e7a-f1c8-6878-2162-b6b50074c1c3}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
+      <Project>{eee6f280-5a18-0998-58fc-cfe056ab1c95}</Project>
+      <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Subsystem.Registration.csproj">
+      <Project>{40afad80-d57d-f925-ef6f-7cf6f0b84424}</Project>
+      <Name>Unity.Subsystem.Registration</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
+      <Project>{ee28f9cd-18c2-5818-7f9c-ffb2a88e8e78}</Project>
+      <Name>Unity.AI.Navigation.Updater</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mobile.AndroidLogcat.Editor.csproj">
+      <Project>{5cdb45cd-7dc4-fb73-e8d2-1b4dcf1a2602}</Project>
+      <Name>Unity.Mobile.AndroidLogcat.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
+      <Project>{3ba58b92-efba-b07c-350a-4a76a39eb1cb}</Project>
+      <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{491b455b-e706-798e-38b5-4632beac5535}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
+      <Project>{85d29fca-a48e-9fa7-0c5e-27b4ecb51883}</Project>
+      <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AdaptivePerformance.Editor.csproj">
+      <Project>{ec529c99-dcb0-6436-58a4-3bdb155bc2bb}</Project>
+      <Name>Unity.AdaptivePerformance.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
+      <Project>{78abee35-7fac-4d43-9b3c-3d3d375283d0}</Project>
+      <Name>Unity.AI.Navigation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.csproj">
+      <Project>{ff49548e-cdbd-7d96-bef1-7ce0f0f8e2c9}</Project>
+      <Name>Unity.VisualScripting.State</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
+      <Project>{195dac87-38f3-ad94-3497-feda2dd65ad7}</Project>
+      <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Notifications.Android.csproj">
+      <Project>{c6c55fbc-b05c-83ce-659b-95b498e8bf16}</Project>
+      <Name>Unity.Notifications.Android</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VSCode.Editor.csproj">
+      <Project>{506f5df7-0b04-dc8a-51e9-2b86ba9b91f5}</Project>
+      <Name>Unity.VSCode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Profiling.Core.csproj">
+      <Project>{8fa3914f-d0a6-be14-dc56-275ee9f95738}</Project>
+      <Name>Unity.Profiling.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
